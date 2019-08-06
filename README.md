@@ -1,5 +1,6 @@
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=2 orderedList=false} -->
+
 <!-- code_chunk_output -->
 
 - [拼图](#拼图)
@@ -22,8 +23,9 @@
   - [变量（Variables）](#变量variables)
   - [函数（Procedures）](#函数procedures)
   - [拼图库（Puzzles Library）](#拼图库puzzles-library)
-  - [拼图库（Puzzles Library）](#拼图库puzzles-library)
+
 <!-- /code_chunk_output -->
+
 # 拼图
 
 ## 初始化(Initialization)
